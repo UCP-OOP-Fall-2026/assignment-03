@@ -1,4 +1,4 @@
-# Advanced Object-Oriented Programming
+
 ## CSCP2023 – Object-Oriented Programming
 
 This repository is the starter project for the **Smart University Resource Management System** assignment.
